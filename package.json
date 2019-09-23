@@ -19,6 +19,6 @@
     "passport.socketio": "^3.7.0",
     "sessionstore": "^1.2.18",
     "socket-io.sessions": "^0.2.0",
-    "socket.io": "^1.7.3"
+    "socket.io": "^2.3.0"
   }
 }
